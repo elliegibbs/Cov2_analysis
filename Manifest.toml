@@ -179,7 +179,7 @@ uuid = "7b1f6079-737a-58dc-b8bc-7a2ca5c1b5ee"
 
 [[FinalBisc195]]
 deps = ["BioSequences"]
-path = "/Users/elliegibbs/Documents/my_repo/assignment07-elliegibbs/"
+path = "../FinalBisc195.jl"
 uuid = "67893044-1481-44cf-8ab6-de350e09ee4e"
 version = "0.1.0"
 
